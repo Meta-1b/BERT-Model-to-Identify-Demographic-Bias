@@ -1,5 +1,7 @@
 # Finetuning LLM to Identify Demographic Bias
 
+We'd like to thank all the Meta collaborators we worked with throughout this process-- particularly our challenge Advisor Megan and TA Grace.
+
 ## Project Overview
 
 Our project focused on three main goals:
